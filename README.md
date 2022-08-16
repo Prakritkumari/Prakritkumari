@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prakritkumari
+- 👋 Hi, I’m @PrakritArya
 - 👀 I’m interested in Android applications
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on ...
